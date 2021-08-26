@@ -1,5 +1,5 @@
 import pandas as pd
-from my_logger import logger
+from myscripts.my_logger import logger
 
 def read_csv(file_name):
   try:
