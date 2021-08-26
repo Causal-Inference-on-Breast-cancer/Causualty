@@ -1,0 +1,4 @@
+[core]
+    remote = week7remote
+['remote "week7remote"']
+    url = gdrive://15MHIf9dKSKhJjUgNI5YBHMzVlZBG0olx
