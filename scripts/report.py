@@ -3,7 +3,7 @@ with open('results.txt', 'w') as result:
       result.write('CML Report for Causal Modeling\n')
       result.write('\n')
       result.write('Logistic Regression\n')
-      result.write('Best Accuracy: 98.5%\n')
+      result.write('Best Accuracy: 96.5%\n')
       result.write('\n')
       result.write('Random Forest Classification\n')
       result.write('Best Accuracy: 94.7%\n')
